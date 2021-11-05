@@ -1,0 +1,12 @@
+.home {
+  max-width: 1024px;
+  height: 100vh;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.student-data {
+  width: 50%;
+  margin: auto;
+}
